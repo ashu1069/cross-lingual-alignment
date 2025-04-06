@@ -58,7 +58,4 @@ Click here: [Files](https://drive.google.com/drive/folders/14qj5tnjOcuYyEN9FRo5t
 
 ## Getting Started
 
-Run the notebook step-by-step in a Python environment or Colab. Ensure you have:
-
-```bash
-pip install torch faiss-cpu matplotlib scikit-learn
+Run the notebook step-by-step in a Python environment/Colab/Kaggle
